@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "saddle": "^0.5.0",
+    "saddle": "git+https://github.com/mrThomasTeller/saddle.git",
     "serialize-object": "~0.0.5"
   },
   "devDependencies": {
