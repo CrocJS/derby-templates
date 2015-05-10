@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "saddle": "git+https://github.com/mrThomasTeller/saddle.git",
+    "saddle": "git+https://github.com/CrocJS/saddle.git",
     "serialize-object": "~0.0.5"
   },
   "devDependencies": {
